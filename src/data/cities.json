@@ -1,54 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Porto",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930384
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Barcelone",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806755
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -59,6 +11,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-06-30T00:06:51.268Z",
+      "notes": "",
+      "position": {
+        "lat": "51.56032139260601",
+        "lng": "-0.3849538026749389"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Jersey City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-30T00:07:20.391Z",
+      "notes": "",
+      "position": {
+        "lat": "40.672625285359",
+        "lng": "-74.04879043557565"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "East Brunswick",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-30T00:07:25.429Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43914403534276",
+        "lng": "-74.44928049051094"
+      },
+      "id": 98443201
     }
   ]
 }
