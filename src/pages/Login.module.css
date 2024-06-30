@@ -5,6 +5,12 @@
   min-height: calc(100vh - 5rem);
 }
 
+.login button {
+  padding: 8px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
 .form {
   background-color: var(--color-dark--2);
   border-radius: 7px;
